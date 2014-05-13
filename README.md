@@ -3,4 +3,5 @@ hello, git Hub
 
 my first repo on github
 
-ldkjlsadjlfsaj
++ Item 1
++ Item 2
