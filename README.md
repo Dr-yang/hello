@@ -1,4 +1,4 @@
-hello
+hello, git Hub
 =====
 
-my first repo
+my first repo on github
